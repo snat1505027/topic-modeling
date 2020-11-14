@@ -1,4 +1,4 @@
-# topic-modeling
+# Topic-Modeling
 Topic modeling architectures on COVID-19 tweets.
 
 <b>Steps:</b>
@@ -22,4 +22,4 @@ We experiment on different topic modeling architectures:
 
 BTM, GSDMM performs quite well for short text corpus like tweets. We intend to experiment on other models and show topic-coherence from the ouptput. 
 
-Right now, Twitter-LDA is the winner. I have both implemented JAVA and Python version of the algorithm. We are workng on the performance metrics for evaluating the quality of our topic.
+#### Right now, Twitter-LDA is the winner. I have both implemented JAVA and Python version of the algorithm. We are workng on the performance metrics for evaluating the quality of our topic.
